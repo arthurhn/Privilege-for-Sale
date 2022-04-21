@@ -13,4 +13,6 @@ Special Thanks to Bernardo and Eryk, for helping me debug the game on a Sunday N
 
 A project by Botcem UFSC for the use of Kent University's students
 
+Game downloadable via <https://drive.google.com/file/d/1Wmjp6l3GinYALtN0QImcxuQr0hiIqkv_/view?usp=sharing>
+
 Thank you for playing!
